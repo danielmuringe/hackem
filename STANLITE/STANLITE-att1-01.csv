@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+78:54:2E:88:C6:6D, 2024-06-16 17:24:05, 2024-06-16 17:29:22,  1, 135, WPA2, CCMP, PSK, -72,     1632,      451,   0.  0.  0.  0,   8, STANLITE, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+6E:16:80:83:DE:08, 2024-06-16 17:24:06, 2024-06-16 17:27:20, -76,     9140, 78:54:2E:88:C6:6D,
+5E:F5:3D:9F:5C:53, 2024-06-16 17:24:05, 2024-06-16 17:29:22, -73,    18417, 78:54:2E:88:C6:6D,STANLITE
+
