@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+C8:3A:35:34:D1:40, 2024-06-13 11:16:07, 2024-06-13 11:19:36,  5, 270, WPA2, CCMP, PSK, -67,     2041,      449,   0.  0.  0.  0,   5, Josky, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+BC:FA:B8:CE:FB:B4, 2024-06-13 11:16:07, 2024-06-13 11:19:36, -81,       75, C8:3A:35:34:D1:40,
+56:96:A2:76:8C:C8, 2024-06-13 11:16:07, 2024-06-13 11:19:36, -69,     1302, C8:3A:35:34:D1:40,
+A6:0E:08:30:BC:90, 2024-06-13 11:16:07, 2024-06-13 11:19:36, -73,     3433, C8:3A:35:34:D1:40,Josky
+
